@@ -1,0 +1,15 @@
+C:\devnet\Timer\bin\Debug\net8.0\Timer.exe
+C:\devnet\Timer\bin\Debug\net8.0\Timer.deps.json
+C:\devnet\Timer\bin\Debug\net8.0\Timer.runtimeconfig.json
+C:\devnet\Timer\bin\Debug\net8.0\Timer.dll
+C:\devnet\Timer\bin\Debug\net8.0\Timer.pdb
+C:\devnet\Timer\obj\Debug\net8.0\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\devnet\Timer\obj\Debug\net8.0\Timer.AssemblyInfoInputs.cache
+C:\devnet\Timer\obj\Debug\net8.0\Timer.AssemblyInfo.cs
+C:\devnet\Timer\obj\Debug\net8.0\Timer.csproj.CoreCompileInputs.cache
+C:\devnet\Timer\obj\Debug\net8.0\Timer.sourcelink.json
+C:\devnet\Timer\obj\Debug\net8.0\Timer.dll
+C:\devnet\Timer\obj\Debug\net8.0\refint\Timer.dll
+C:\devnet\Timer\obj\Debug\net8.0\Timer.pdb
+C:\devnet\Timer\obj\Debug\net8.0\Timer.genruntimeconfig.cache
+C:\devnet\Timer\obj\Debug\net8.0\ref\Timer.dll
