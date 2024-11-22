@@ -4,9 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        do
-            Menu();
-        while (0 < 4);
+            Menu();   
     }
 
     static void Soma()
@@ -17,6 +15,7 @@ internal class Program
         double n2 = double.Parse(Console.ReadLine());
         double resultado = n1 + n2;
         Console.WriteLine("Resultado " + resultado);
+        Menu();
     }
     static void subtração()
     {
@@ -26,6 +25,7 @@ internal class Program
         double n2 = double.Parse(Console.ReadLine());
         double resultado = n1 - n2;
         Console.WriteLine("Resultado " + resultado);
+        Menu();
     }
     static void mutiplicacao()
     {
@@ -35,6 +35,7 @@ internal class Program
         double n2 = double.Parse(Console.ReadLine());
         double resultado = n1 * n2;
         Console.WriteLine("Resultado " + resultado);
+        Menu();
     }
     static void divisao()
     {
@@ -44,6 +45,7 @@ internal class Program
         double n2 = double.Parse(Console.ReadLine());
         double resultado = n1 / n2;
         Console.WriteLine("Resultado " + resultado);
+        Menu();
     }
     static void Menu()
     {
