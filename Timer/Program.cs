@@ -10,7 +10,7 @@ internal class Program
     }
     static void Menu()
     {
-        int mutiplicador = 1;
+        int multiplicador = 1;
         Console.WriteLine("Ola esse é um timer. Temos algumas opçoes");
         Console.WriteLine("S para Digitar o tempo em segundos ex -> 10s");
         Console.WriteLine("M para Digitar o tempo em minutos ex -> 1m");
@@ -20,13 +20,13 @@ internal class Program
         int tempo = int.Parse(tipo_tempo.Substring(0, tipo_tempo.Length - 1));
         if (tipo == 'm')
         {
-            mutiplicador = 60;
+            multiplicador = 60;
         }
         if (tempo == 0)
         {
             System.Environment.Exit(0);
         }
-        comecar(tempo * mutiplicador);
+        comecar(tempo * multiplicador);
     }
     static void comecar(int tempo)
     {
